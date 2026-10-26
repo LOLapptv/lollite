@@ -2,7 +2,7 @@
   "apps": [
     {
       "app": "lollite",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "parche": "003",
       "paquete_url": {
         "url_apk_arm64": "https://modlyo.com/lollite/descargas/lollite_arm64.apk",
