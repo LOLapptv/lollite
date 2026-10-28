@@ -3,7 +3,7 @@
     {
       "app": "lollite",
       "version": "0.0.2",
-      "parche": "005",
+      "parche": "007",
       "paquete_url": {
         "url_apk_arm64": "https://modlyo.com/lollite/descargas/app-arm64-v8a-release.apk",
         "url_apk_armeabi": "https://modlyo.com/lollite/descargas/app-armeabi-v7a-release.apk",
