@@ -3,7 +3,7 @@
     {
       "app": "lollite",
       "version": "0.0.2",
-      "parche": "007",
+      "parche": "008",
       "paquete_url": {
         "url_apk_arm64": "https://modlyo.com/lollite/descargas/app-arm64-v8a-release.apk",
         "url_apk_armeabi": "https://modlyo.com/lollite/descargas/app-armeabi-v7a-release.apk",
@@ -11,9 +11,9 @@
         "url_apk_universal": "https://modlyo.com/lollite/descargas/app-release.apk"
       },
       "novedades": [
-        "Soporte para nuevos dispositivos",
-        "Mejora en el UI de tv",
-        "Corrección de manaje de historial en cache"
+        "IMPLEMENTACION DE CAST",
+        "EDICION DE HOME PRINCIPAL EN TV",
+        "MEJORA EN CONFIGURACION DE REPOSITORIOS"
       ]
     }
   ]
