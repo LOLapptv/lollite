@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "app": "lollitedes",
+      "version": "0.0.3",
+      "parche": "010",
+      "paquete_url": {
+        "url_windows": "https://modlyo.com/lollitedesktop/descargas/lollite-desktop.zip"
+      },
+      "novedades": [
+        "Mejoras de reproducción",
+        "Auto-actualización"
+      ]
+    }
+  ]
+}
