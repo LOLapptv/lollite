@@ -2,8 +2,8 @@
   "apps": [
     {
       "app": "lollitedes",
-      "version": "0.0.2",
-      "parche": "013",
+      "version": "0.1.2",
+      "parche": "012",
       "paquete_url": {
         "url_windows": "https://modlyo.com/lollitedesktop/descargas/lollite-desktop.zip"
       },
